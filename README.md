@@ -7,7 +7,9 @@
 
 * You'll need Qt 5.7 libraries to compile and run
 
-* Check out the demo below!
+* Check out the demo screenshots below!
+
+* *I deleted old commits with force push
 
 ---
 
