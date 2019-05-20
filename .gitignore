@@ -1,0 +1,4 @@
+*.zip
+instaTagPrint.pro.user
+.qmake.stash
+release/*

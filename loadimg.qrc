@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/loadimg">
+        <file>Flickr.gif</file>
+        <file>Spinner.gif</file>
+        <file>Spinner2.gif</file>
+        <file>if_print_172530.png</file>
+        <file>if_17_330399.png</file>
+        <file>if_ic_error_48px_351983.png</file>
+        <file>icon.png</file>
+        <file>icontag.ico</file>
+    </qresource>
+</RCC>
